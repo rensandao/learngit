@@ -1,4 +1,4 @@
-## Git and Github 教程 
+## Git and Github 教程编写 
 
 * 了解几种不用的版本控制系统，了解git对于编程人员的作用；
 * git简介： 安装与使用
