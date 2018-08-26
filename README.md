@@ -28,5 +28,6 @@
 
 ## Reference
  
-* [Udacity Resources](https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/30736788890923)
 * [廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [Udacity Resources](https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/30736788890923)
+
