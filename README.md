@@ -14,7 +14,12 @@
     × 拉取更改pull
     × Fork、克隆、分支
 
+# 切入角度
+
+* 核心思想是： 通俗易懂
+* 角度不同： 找个新的切入角度和整体教程思维。 系统原理性不能丢。
+
 ## Reference
  
-* [Udacity]（https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/30736788890923）
-* 廖雪峰git教程
+* [Udacity Resources](https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/30736788890923)
+* [廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
